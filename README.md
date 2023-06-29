@@ -34,7 +34,8 @@ Incorporate additional media elements, such as images or audio clips, into the s
 ## Topic Clustering:
 Implement topic modeling techniques to group similar videos based on their transcripts and provide users with topic-based summaries or recommendations.
 
-## Interactive Summaries: Enable users to interact with the generated summaries by highlighting specific keywords or sentences to access related parts of the video or explore more detailed information.
+## Interactive Summaries: 
+Enable users to interact with the generated summaries by highlighting specific keywords or sentences to access related parts of the video or explore more detailed information.
 
 Developing a YouTube Transcript Summarizer requires a strong understanding of natural language processing (NLP) techniques, machine learning algorithms, and web development skills. It's also important to comply with YouTube's terms of service and any applicable data usage policies when accessing and processing YouTube video data.
 

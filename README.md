@@ -1,4 +1,4 @@
-# youtube_transcript_summarizer
+# Youtube_transcript_summarizer
 The YouTube Transcript Summarizer is a natural language processing (NLP) project that aims to automatically generate concise summaries of YouTube video transcripts. This project utilizes machine learning techniques to process and extract key information from the transcript data, allowing users to quickly grasp the main points and key insights of a video without having to watch it entirely.
 ## Key Features and Functionality:
 
